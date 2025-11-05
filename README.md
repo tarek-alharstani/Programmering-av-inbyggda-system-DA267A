@@ -1,11 +1,23 @@
 # Programmering-av-inbyggda-system-DA267A
 Programming of Embedded Systems
-Kursen innehåller följande moment:
-Element i språket C för inbyggda system
-Utveckling, programmering och testning av inbyggda system
-Grundläggande datastrukturer och algoritmer
-Mjukvaruarkitektur och mönster för inbyggda system
-Utvecklingsmiljöer för inbyggda system
-Avbrott, realtidsaspekter, realtidsoperativsystem
-Källkritik av litteratur, teknisk dokumentation, marknadsföringsmaterial, material på internet och vetenskapliga artiklar om inbyggda system
-Etiska aspekter angående användning av inbyggda system och människors ansvar
+
+The course covers the following topics:
+
+Elements of the C language for embedded systems
+
+Development, programming, and testing of embedded systems
+
+Fundamental data structures and algorithms
+
+Software architecture and design patterns for embedded systems
+
+Development environments and tools for embedded systems
+
+Interrupts, real-time aspects, and real-time operating systems (RTOS)
+
+Source criticism of literature, technical documentation, marketing materials, online sources, and scientific articles related to embedded systems
+
+Ethical aspects regarding the use of embedded systems and human responsibility
+
+Summary:
+The course provides both theoretical and practical knowledge of programming embedded systems using C, emphasizing real-time operation, system architecture, and ethical responsibility in technology use.
